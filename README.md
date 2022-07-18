@@ -1,6 +1,6 @@
 # FizzBuzz
 ### The objectives of this project:
-1. Install Apache Kafka.
+1. [Install Apache Kafka](https://kafka.apache.org/quickstart).
 2. Create a topic and write numbers from 1 to 1 million in Kafka.
 3. Write a Java application that reads numbers from Kafka and uses the FizzBuzz algorithm.
 4. Optimize FizzBuzz.
