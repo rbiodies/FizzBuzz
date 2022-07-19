@@ -1,4 +1,4 @@
-# FizzBuzz
+# <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/apachekafka.svg" /> FizzBuzz
 ### The objectives of this project:
 1. [Install Apache Kafka](https://kafka.apache.org/quickstart).
 2. Create a topic and write numbers from 1 to 1 million in Kafka.
